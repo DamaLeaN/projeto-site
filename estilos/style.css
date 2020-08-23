@@ -9,7 +9,7 @@ body {
 
 main {
     background-color: white;
-    width: 580px;
+    width: 565px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(15, 15, 15, 0.486);
@@ -35,4 +35,7 @@ a:link {
 
 img.lado {
     float:right;
+}
+iframe {
+    float:center;
 }
