@@ -24,3 +24,15 @@ h1 {
 h2 {
     color: rgb(173, 49, 173);
 }
+
+a:houver {
+    color: rgb(173, 49, 173);
+}
+
+a:link {
+    color: rgb(173, 49, 173);
+}
+
+img.lado {
+    float:right;
+}
